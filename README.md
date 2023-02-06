@@ -2,7 +2,7 @@
 
 los cuales pueden ser personalizados si se requieren y ajustados
 
-####Uso principal consultar cuando tengas dudas
+#### Uso principal consultar cuando tengas dudas
 
 Archivos hechos con puro HTML, CSS para usar en algun framework o 
 
